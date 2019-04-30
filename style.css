@@ -1,0 +1,60 @@
+@media only screen and (max-width: 768px) {
+    #main {
+        width: 100%;
+    }
+}
+
+body { 
+    font-family: "Trebuchet MS", Helvetica, sans-serif; 
+    color: #333;
+    text-align: center;
+    
+}
+
+li {
+    margin: 10px;
+}
+
+ul {
+    text-align: left;
+    max-width: 550px;
+}
+
+img {
+    max-width: 100%;
+    border-radius: 10px;
+    height: auto;
+}
+
+#main {
+    background:#eee;
+}
+
+#title {
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+#img-div {
+    text-align: center;
+    background-color: white;
+    padding: 40px;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    border:5px solid white;
+}
+
+#tribute-info {
+    margin: 0 auto;
+    width: 50%;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+footer {
+    text-align: center;
+}
